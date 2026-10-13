@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "ContinualRAG-Bench"
+type: software
+authors:
+  - name: "blck-iris"
+    github: "blck-iris"
+abstract: "Benchmarking non-parametric and parametric continual learning for memory-augmented retrieval agents under distribution drift."
+repository-code: "https://github.com/blck-iris/continualrag-bench"
+license: MIT
+keywords:
+  - continual learning
+  - retrieval-augmented generation
+  - catastrophic forgetting
+  - distribution drift
+  - LoRA
+date-released: 2026-10-13

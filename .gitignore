@@ -1,0 +1,21 @@
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Model / cache artifacts
+*.bin
+*.safetensors
+*.pt
+*.faiss
+checkpoints/
+wandb/
